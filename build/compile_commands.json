@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/home/oscar/code/pythagoras/build",
+    "command": "/usr/bin/c++  -I/home/oscar/code/pythagoras/include -std=gnu++17 -o CMakeFiles/QuickPythagoras.dir/src/main.cpp.o -c /home/oscar/code/pythagoras/src/main.cpp",
+    "file": "/home/oscar/code/pythagoras/src/main.cpp"
+  },
+  {
+    "directory": "/home/oscar/code/pythagoras/build",
+    "command": "/usr/bin/c++  -I/home/oscar/code/pythagoras/include -std=gnu++17 -o CMakeFiles/QuickPythagoras.dir/src/utils.cpp.o -c /home/oscar/code/pythagoras/src/utils.cpp",
+    "file": "/home/oscar/code/pythagoras/src/utils.cpp"
+  }
+]

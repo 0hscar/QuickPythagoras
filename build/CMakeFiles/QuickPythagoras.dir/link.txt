@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/QuickPythagoras.dir/src/main.cpp.o CMakeFiles/QuickPythagoras.dir/src/utils.cpp.o -o QuickPythagoras 

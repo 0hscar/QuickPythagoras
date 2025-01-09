@@ -1,0 +1,3 @@
+/home/oscar/code/pythagoras/build/CMakeFiles/QuickPythagoras.dir
+/home/oscar/code/pythagoras/build/CMakeFiles/edit_cache.dir
+/home/oscar/code/pythagoras/build/CMakeFiles/rebuild_cache.dir
